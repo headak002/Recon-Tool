@@ -135,11 +135,5 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## Contact
-
-For any queries or feedback, contact us at: [support@reconvapt.com](mailto\:support@reconvapt.com)
-
----
-
 **Disclaimer:** This tool is intended for ethical use only. Unauthorized usage is strictly prohibited.
 
