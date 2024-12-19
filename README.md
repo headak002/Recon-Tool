@@ -79,15 +79,24 @@ $ python app.py
 
 #### Welcome Screen
 
-Insert a screenshot of the welcome screen here.
+![image](https://github.com/user-attachments/assets/3bd39854-17af-4a60-b0d3-fdde9f1f7755)
 
 #### Login Page
 
-Insert a screenshot of the login page here.
+![image](https://github.com/user-attachments/assets/5175bdd1-d314-48e0-9c65-17bd52ceca71)
 
 #### Main Tool Interface
 
-Insert screenshots of the "Vulnerability Assessment" and "Recon Tools" tabs here.
+Insert screenshots of the "Recon Tools" 
+![image](https://github.com/user-attachments/assets/938393ea-ef37-4387-8cfd-c54c1e6f0af5)
+
+and "Vulnerability Assessment" tabs here.
+![image](https://github.com/user-attachments/assets/afdfb418-deb8-4519-822e-14bff9c26cb6)
+
+Automated installation of tools
+![image](https://github.com/user-attachments/assets/de28f6a2-b10f-4a2c-803c-666ecfad06cb)
+
+
 
 ---
 
