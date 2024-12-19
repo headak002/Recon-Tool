@@ -28,11 +28,10 @@ class LoginPage(ctk.CTkFrame):
     def check_credentials(self):
         username = self.username_input.get()
         password = self.password_input.get()
-
-        # Hardcoded credentials (replace with a secure method in real applications)
         if username == 'admin' and password == 'password123':
-            self.switch_to_main()  # Call the function to switch to the main tool
+            self.switch_to_main()
         else:
-            # Use 'configure' instead of 'config'
             self.label_error.configure(text="Invalid credentials", text_color="red")
 
+if __name__ == "__main__":
+    print("This script is part of the Recon Tool application and cannot be run directly.")
