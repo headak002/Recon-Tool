@@ -12,7 +12,7 @@ class WelcomeScreen(ctk.CTkFrame):
         self.configure(fg_color="#000000")
         
         # Title Label with modern styling
-        self.title_label = ctk.CTkLabel(self, text="Welcome to ReconVapt", font=("Arial", 35, "bold"), text_color="#FFFFFF")
+        self.title_label = ctk.CTkLabel(self, text="Welcome to Vul_Rec", font=("Arial", 35, "bold"), text_color="#FFFFFF")
         self.title_label.place(relx=0.5, rely=0.2, anchor="center")
 
         # Subtitle with modern styling
@@ -63,3 +63,5 @@ class WelcomeScreen(ctk.CTkFrame):
             # Once the progress completes, display the login screen
             self.show_login_page()
 
+if __name__ == "__main__":
+    print("This script is part of the Recon Tool application and cannot be run directly.")
