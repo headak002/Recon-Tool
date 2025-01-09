@@ -1,6 +1,6 @@
-# Recon-VAPT Tool
+# Vul-Rec Tool
 
-The Recon-VAPT Tool is a comprehensive and user-friendly application designed for security assessments and reconnaissance tasks. It provides utilities for vulnerability scanning, reconnaissance, and reporting.
+The Vul-Rec Tool is a comprehensive and user-friendly application designed for security assessments and reconnaissance tasks. It provides utilities for vulnerability scanning, reconnaissance, and reporting.
 
 ---
 
