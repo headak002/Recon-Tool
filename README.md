@@ -1,6 +1,6 @@
-# Vul-Rec Tool
+# Vul_Rec Tool
 
-The Vul-Rec Tool is a comprehensive and user-friendly application designed for security assessments and reconnaissance tasks. It provides utilities for vulnerability scanning, reconnaissance, and reporting.
+The Vul_Rec Tool is a comprehensive and user-friendly application designed for security assessments and reconnaissance tasks. It provides utilities for vulnerability scanning, reconnaissance, and reporting.
 
 ---
 
